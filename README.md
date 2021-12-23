@@ -10,15 +10,14 @@ Behold, a tinder for pets! You can choose what to play with a pet for, emotional
 ## MVP Feature Set
 
 1.  Swipe feature
-    
-    - be able to click left or right arrows to "swipe btw animals"
-1.  message feature(?)
-    - if you swipe right, it adds the option to contact them
+    - Be able to click left or right arrows to "swipe btw animals"
+1.  Message feature(?)
+    - If you swipe right, it adds the option to contact them
 
 ### Potential Additional Features
 
-1.  different types of animals. Cats, Dogs, Reptiles, Exotics
-2.  be able to add a photo of the pet to the app
+1.  Different types of animals. Cats, Dogs, Reptiles, Exotics
+2.  Be able to add a photo of the pet to the app
 
 ## Draft Technology Choices
 
